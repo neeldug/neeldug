@@ -4,6 +4,7 @@ date: 2022-02-22T16:01:02.000Z
 extra:
   link: https://github.com/samuel-adekunle/raft-elixir
   image: /media/raft-logo.svg
+  featured: true
 description: An implementation of the Raft protocol as Distributed Algorithms' coursework
 taxonomies:
   tags:

@@ -4,6 +4,7 @@ date: 2021-01-18T16:32:00.000Z
 extra:
   link: https://github.com/neeldug/elec50010-2020-cpu-cw
   image: /media/mips-technologies.svg
+  featured: true
 description: An implementation of a MIPS I CPU as part of my Computer Architecture module
 taxonomies:
   tags:
