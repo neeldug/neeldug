@@ -1,0 +1,86 @@
+[
+  {
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      {
+        "name": "C++",
+        "icon": "Cplusplus"
+      },
+      {
+        "name": "Kafka",
+        "icon": "apachekafka"
+      },
+      "Rust",
+      {
+        "name": "C#",
+        "icon": "csharp"
+      },
+      {
+        "name": "F#",
+        "icon": "fsharp"
+      },
+      "Elixir",
+      {
+        "name": "SystemVerilog",
+        "icon": "bash"
+      },
+      "Java",
+      "Python",
+      "git",
+      "linux",
+      "bash",
+      "JavaScript"
+    ]
+  },
+  {
+    "grouping": "Platform Development & Administration",
+    "skills": [
+      "NGINX",
+      "MySQL"
+    ]
+  },
+  {
+    "grouping": "Data Management",
+    "skills": [
+      {
+        "name": "MySQL/MariaDB",
+        "icon": "MySQL"
+      },
+      "MongoDB"
+    ]
+  },
+  {
+    "grouping": "Architecture",
+    "skills": [
+      {
+        "name": "Networks",
+        "icon": "bash"
+      },
+      {
+        "name": "Microservices",
+        "icon": "bash"
+      },
+      {
+        "name": "RESTful APIs",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      {
+        "name": "Docker",
+        "link": "https://docker.com"
+      },
+      {
+        "name": "AWS",
+        "icon": "amazonwebservices"
+      },
+      {
+        "name": "GCP",
+        "icon": "googlecloud"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Ebene_1" x="0px" y="0px" viewBox="0 0 94 94" style="enable-background:new 0 0 94 94;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5E5B5C;}
+	.st1{fill:#004068;}
+	.st2{fill:#0070BA;}
+</style>
+<g id="Embedded_Devices_1_">
+	<g>
+		<rect x="34.6" y="13.2" class="st0" width="3.5" height="7"></rect>
+		<rect x="46.3" y="0.5" class="st0" width="3.5" height="19.7"></rect>
+		<rect x="34.6" y="75" class="st0" width="3.5" height="14.3"></rect>
+		<rect x="46.3" y="75" class="st0" width="3.5" height="10.5"></rect>
+		<rect x="75.1" y="45.9" class="st0" width="18.4" height="3.5"></rect>
+		<rect x="75.1" y="57.5" class="st0" width="14.1" height="3.5"></rect>
+		<rect x="0.5" y="45.9" class="st0" width="20" height="3.5"></rect>
+		<rect x="9.9" y="57.5" class="st0" width="10.5" height="3.5"></rect>
+		<path class="st1" d="M64.8,23.6H30.7c-3.7,0-6.9,3.1-6.9,6.9v34.2c0,3.7,3.1,6.9,6.9,6.9h34.2c3.7,0,6.9-3.1,6.9-6.9V30.4    C71.6,26.7,68.6,23.6,64.8,23.6z M68.2,64.6c0,1.9-1.5,3.4-3.4,3.4H30.7c-1.9,0-3.4-1.5-3.4-3.4V30.4c0-1.9,1.5-3.4,3.4-3.4h34.2    c1.9,0,3.4,1.5,3.4,3.4V64.6z"></path>
+		<path class="st0" d="M9.9,31.4c-2.4,0-4.4,2-4.4,4.4s2,4.4,4.4,4.4c1.9,0,3.4-1.1,4.2-2.7h6.3v-3.5h-6.3    C13.3,32.5,11.8,31.4,9.9,31.4z"></path>
+		<path class="st0" d="M61.6,85.2V75h-3.5v10.2c-1.6,0.7-2.7,2.3-2.7,4.2c0,2.4,2,4.4,4.4,4.4s4.4-2,4.4-4.4    C64.3,87.5,63.1,85.8,61.6,85.2z"></path>
+		<path class="st0" d="M85.5,40.3c2.4,0,4.4-2,4.4-4.4s-2-4.4-4.4-4.4c-1.9,0-3.4,1.1-4.2,2.7H75v3.5h6.3    C82.1,39.2,83.8,40.3,85.5,40.3z"></path>
+		<path class="st0" d="M58.1,13.9v6.3h3.5v-6.3c1.6-0.7,2.7-2.3,2.7-4.2c0-2.4-2-4.4-4.4-4.4s-4.4,2-4.4,4.4    C55.3,11.6,56.5,13.2,58.1,13.9z"></path>
+		<rect x="33.5" y="33.6" class="st2" width="26.9" height="26.9"></rect>
+	</g>
+</g>
+</svg>
