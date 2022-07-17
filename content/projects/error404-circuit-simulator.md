@@ -2,7 +2,6 @@
 title: "Error404 Circuit Simulator"
 date: 2020-06-16T20:28:00.000Z 
 extra:
-    featured: true
     link: https://github.com/neeldug/404CircuitSim
     image: /media/ISO_CPP_Logo.svg
 description: 📊 A simple command-line utility for simulating analog circuits with multiple supported components. 
